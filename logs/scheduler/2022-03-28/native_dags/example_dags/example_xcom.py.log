@@ -1,0 +1,539 @@
+[2022-03-28 10:13:34,267] {processor.py:163} INFO - Started process (PID=52722) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:13:34,268] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:13:34,269] {logging_mixin.py:109} INFO - [2022-03-28 10:13:34,269] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:13:34,310] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:13:34,546] {logging_mixin.py:109} INFO - [2022-03-28 10:13:34,546] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:13:34,558] {logging_mixin.py:109} INFO - [2022-03-28 10:13:34,558] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:13:34,568] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.304 seconds
+[2022-03-28 10:14:07,661] {processor.py:163} INFO - Started process (PID=52759) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:14:07,663] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:14:07,663] {logging_mixin.py:109} INFO - [2022-03-28 10:14:07,663] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:14:07,699] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:14:07,917] {logging_mixin.py:109} INFO - [2022-03-28 10:14:07,917] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:14:07,926] {logging_mixin.py:109} INFO - [2022-03-28 10:14:07,926] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:14:07,934] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.276 seconds
+[2022-03-28 10:14:41,752] {processor.py:163} INFO - Started process (PID=52792) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:14:41,754] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:14:41,755] {logging_mixin.py:109} INFO - [2022-03-28 10:14:41,755] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:14:41,805] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:14:42,026] {logging_mixin.py:109} INFO - [2022-03-28 10:14:42,026] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:14:42,037] {logging_mixin.py:109} INFO - [2022-03-28 10:14:42,037] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:14:42,050] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.302 seconds
+[2022-03-28 10:15:13,114] {processor.py:163} INFO - Started process (PID=52821) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:15:13,115] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:15:13,116] {logging_mixin.py:109} INFO - [2022-03-28 10:15:13,115] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:15:13,148] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:15:13,336] {logging_mixin.py:109} INFO - [2022-03-28 10:15:13,336] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:15:13,345] {logging_mixin.py:109} INFO - [2022-03-28 10:15:13,345] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:15:13,354] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.244 seconds
+[2022-03-28 10:15:47,296] {processor.py:163} INFO - Started process (PID=52851) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:15:47,298] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:15:47,298] {logging_mixin.py:109} INFO - [2022-03-28 10:15:47,298] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:15:47,329] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:15:47,517] {logging_mixin.py:109} INFO - [2022-03-28 10:15:47,517] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:15:47,528] {logging_mixin.py:109} INFO - [2022-03-28 10:15:47,528] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:15:47,536] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.243 seconds
+[2022-03-28 10:16:20,516] {processor.py:163} INFO - Started process (PID=52883) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:16:20,520] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:16:20,522] {logging_mixin.py:109} INFO - [2022-03-28 10:16:20,521] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:16:20,561] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:16:20,744] {logging_mixin.py:109} INFO - [2022-03-28 10:16:20,743] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:16:20,757] {logging_mixin.py:109} INFO - [2022-03-28 10:16:20,756] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:16:20,767] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.263 seconds
+[2022-03-28 10:16:53,117] {processor.py:163} INFO - Started process (PID=52913) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:16:53,119] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:16:53,120] {logging_mixin.py:109} INFO - [2022-03-28 10:16:53,120] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:16:53,166] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:16:53,406] {logging_mixin.py:109} INFO - [2022-03-28 10:16:53,406] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:16:53,417] {logging_mixin.py:109} INFO - [2022-03-28 10:16:53,417] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:16:53,428] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.316 seconds
+[2022-03-28 10:17:25,329] {processor.py:163} INFO - Started process (PID=52946) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:17:25,331] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:17:25,332] {logging_mixin.py:109} INFO - [2022-03-28 10:17:25,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:17:25,374] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:17:25,561] {logging_mixin.py:109} INFO - [2022-03-28 10:17:25,560] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:17:25,569] {logging_mixin.py:109} INFO - [2022-03-28 10:17:25,569] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:17:25,584] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.259 seconds
+[2022-03-28 10:17:57,586] {processor.py:163} INFO - Started process (PID=52980) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:17:57,587] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:17:57,588] {logging_mixin.py:109} INFO - [2022-03-28 10:17:57,588] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:17:57,630] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:17:57,843] {logging_mixin.py:109} INFO - [2022-03-28 10:17:57,842] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:17:57,852] {logging_mixin.py:109} INFO - [2022-03-28 10:17:57,852] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:17:57,863] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.280 seconds
+[2022-03-28 10:18:29,787] {processor.py:163} INFO - Started process (PID=53012) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:18:29,788] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:18:29,789] {logging_mixin.py:109} INFO - [2022-03-28 10:18:29,789] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:18:29,824] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:18:30,079] {logging_mixin.py:109} INFO - [2022-03-28 10:18:30,079] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:18:30,089] {logging_mixin.py:109} INFO - [2022-03-28 10:18:30,089] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:18:30,098] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.314 seconds
+[2022-03-28 10:19:04,456] {processor.py:163} INFO - Started process (PID=53048) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:19:04,457] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:19:04,458] {logging_mixin.py:109} INFO - [2022-03-28 10:19:04,458] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:19:04,485] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:19:04,654] {logging_mixin.py:109} INFO - [2022-03-28 10:19:04,654] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:19:04,663] {logging_mixin.py:109} INFO - [2022-03-28 10:19:04,663] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:19:04,672] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.222 seconds
+[2022-03-28 10:19:35,862] {processor.py:163} INFO - Started process (PID=53078) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:19:35,864] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:19:35,865] {logging_mixin.py:109} INFO - [2022-03-28 10:19:35,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:19:35,905] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:19:36,144] {logging_mixin.py:109} INFO - [2022-03-28 10:19:36,144] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:19:36,154] {logging_mixin.py:109} INFO - [2022-03-28 10:19:36,154] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:19:36,165] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.313 seconds
+[2022-03-28 10:20:07,673] {processor.py:163} INFO - Started process (PID=53108) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:20:07,675] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:20:07,677] {logging_mixin.py:109} INFO - [2022-03-28 10:20:07,677] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:20:07,723] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:20:07,947] {logging_mixin.py:109} INFO - [2022-03-28 10:20:07,947] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:20:07,959] {logging_mixin.py:109} INFO - [2022-03-28 10:20:07,959] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:20:07,971] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.305 seconds
+[2022-03-28 10:20:40,200] {processor.py:163} INFO - Started process (PID=53139) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:20:40,202] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:20:40,203] {logging_mixin.py:109} INFO - [2022-03-28 10:20:40,203] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:20:40,238] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:20:40,459] {logging_mixin.py:109} INFO - [2022-03-28 10:20:40,459] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:20:40,473] {logging_mixin.py:109} INFO - [2022-03-28 10:20:40,472] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:20:40,482] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.286 seconds
+[2022-03-28 10:21:13,752] {processor.py:163} INFO - Started process (PID=53168) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:21:13,753] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:21:13,756] {logging_mixin.py:109} INFO - [2022-03-28 10:21:13,755] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:21:13,796] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:21:14,009] {logging_mixin.py:109} INFO - [2022-03-28 10:21:14,009] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:21:14,019] {logging_mixin.py:109} INFO - [2022-03-28 10:21:14,018] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:21:14,042] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.295 seconds
+[2022-03-28 10:21:46,601] {processor.py:163} INFO - Started process (PID=53201) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:21:46,603] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:21:46,604] {logging_mixin.py:109} INFO - [2022-03-28 10:21:46,604] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:21:46,637] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:21:46,880] {logging_mixin.py:109} INFO - [2022-03-28 10:21:46,880] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:21:46,893] {logging_mixin.py:109} INFO - [2022-03-28 10:21:46,893] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:21:46,908] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.312 seconds
+[2022-03-28 10:22:20,369] {processor.py:163} INFO - Started process (PID=53234) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:22:20,371] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:22:20,371] {logging_mixin.py:109} INFO - [2022-03-28 10:22:20,371] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:22:20,435] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:22:20,729] {logging_mixin.py:109} INFO - [2022-03-28 10:22:20,729] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:22:20,744] {logging_mixin.py:109} INFO - [2022-03-28 10:22:20,744] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:22:20,767] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.401 seconds
+[2022-03-28 10:22:53,341] {processor.py:163} INFO - Started process (PID=53265) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:22:53,343] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:22:53,344] {logging_mixin.py:109} INFO - [2022-03-28 10:22:53,344] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:22:53,388] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:22:53,647] {logging_mixin.py:109} INFO - [2022-03-28 10:22:53,647] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:22:53,658] {logging_mixin.py:109} INFO - [2022-03-28 10:22:53,658] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:22:53,670] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.333 seconds
+[2022-03-28 10:23:25,761] {processor.py:163} INFO - Started process (PID=53297) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:23:25,763] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:23:25,764] {logging_mixin.py:109} INFO - [2022-03-28 10:23:25,763] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:23:25,803] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:23:26,029] {logging_mixin.py:109} INFO - [2022-03-28 10:23:26,029] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:23:26,042] {logging_mixin.py:109} INFO - [2022-03-28 10:23:26,042] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:23:26,054] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.298 seconds
+[2022-03-28 10:23:57,302] {processor.py:163} INFO - Started process (PID=53330) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:23:57,303] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:23:57,304] {logging_mixin.py:109} INFO - [2022-03-28 10:23:57,304] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:23:57,340] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:23:57,552] {logging_mixin.py:109} INFO - [2022-03-28 10:23:57,552] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:23:57,564] {logging_mixin.py:109} INFO - [2022-03-28 10:23:57,564] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:23:57,575] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.278 seconds
+[2022-03-28 10:24:28,577] {processor.py:163} INFO - Started process (PID=53359) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:24:28,579] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:24:28,579] {logging_mixin.py:109} INFO - [2022-03-28 10:24:28,579] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:24:28,614] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:24:28,830] {logging_mixin.py:109} INFO - [2022-03-28 10:24:28,830] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:24:28,851] {logging_mixin.py:109} INFO - [2022-03-28 10:24:28,851] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:24:28,870] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.297 seconds
+[2022-03-28 10:24:59,831] {processor.py:163} INFO - Started process (PID=53388) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:24:59,833] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:24:59,835] {logging_mixin.py:109} INFO - [2022-03-28 10:24:59,834] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:24:59,873] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:25:00,093] {logging_mixin.py:109} INFO - [2022-03-28 10:25:00,092] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:25:00,107] {logging_mixin.py:109} INFO - [2022-03-28 10:25:00,107] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:25:00,117] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.291 seconds
+[2022-03-28 10:25:34,649] {processor.py:163} INFO - Started process (PID=53420) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:25:34,651] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:25:34,652] {logging_mixin.py:109} INFO - [2022-03-28 10:25:34,652] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:25:34,690] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:25:34,931] {logging_mixin.py:109} INFO - [2022-03-28 10:25:34,931] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:25:34,947] {logging_mixin.py:109} INFO - [2022-03-28 10:25:34,947] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:25:34,958] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.312 seconds
+[2022-03-28 10:26:05,632] {processor.py:163} INFO - Started process (PID=53450) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:26:05,633] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:26:05,635] {logging_mixin.py:109} INFO - [2022-03-28 10:26:05,635] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:26:05,673] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:26:05,878] {logging_mixin.py:109} INFO - [2022-03-28 10:26:05,878] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:26:05,893] {logging_mixin.py:109} INFO - [2022-03-28 10:26:05,893] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:26:05,908] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.279 seconds
+[2022-03-28 10:26:37,793] {processor.py:163} INFO - Started process (PID=53481) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:26:37,795] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:26:37,795] {logging_mixin.py:109} INFO - [2022-03-28 10:26:37,795] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:26:37,835] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:26:38,075] {logging_mixin.py:109} INFO - [2022-03-28 10:26:38,075] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:26:38,086] {logging_mixin.py:109} INFO - [2022-03-28 10:26:38,086] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:26:38,099] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.310 seconds
+[2022-03-28 10:27:09,401] {processor.py:163} INFO - Started process (PID=53512) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:27:09,402] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:27:09,403] {logging_mixin.py:109} INFO - [2022-03-28 10:27:09,403] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:27:09,463] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:27:09,798] {logging_mixin.py:109} INFO - [2022-03-28 10:27:09,798] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:27:09,816] {logging_mixin.py:109} INFO - [2022-03-28 10:27:09,816] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:27:09,829] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.432 seconds
+[2022-03-28 10:27:41,280] {processor.py:163} INFO - Started process (PID=53542) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:27:41,282] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:27:41,282] {logging_mixin.py:109} INFO - [2022-03-28 10:27:41,282] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:27:41,313] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:27:41,493] {logging_mixin.py:109} INFO - [2022-03-28 10:27:41,493] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:27:41,503] {logging_mixin.py:109} INFO - [2022-03-28 10:27:41,503] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:27:41,516] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.239 seconds
+[2022-03-28 10:28:13,340] {processor.py:163} INFO - Started process (PID=53571) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:28:13,342] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:28:13,342] {logging_mixin.py:109} INFO - [2022-03-28 10:28:13,342] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:28:13,376] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:28:13,594] {logging_mixin.py:109} INFO - [2022-03-28 10:28:13,594] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:28:13,606] {logging_mixin.py:109} INFO - [2022-03-28 10:28:13,606] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:28:13,616] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.281 seconds
+[2022-03-28 10:28:47,591] {processor.py:163} INFO - Started process (PID=53606) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:28:47,593] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:28:47,594] {logging_mixin.py:109} INFO - [2022-03-28 10:28:47,594] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:28:47,638] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:28:47,860] {logging_mixin.py:109} INFO - [2022-03-28 10:28:47,860] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:28:47,873] {logging_mixin.py:109} INFO - [2022-03-28 10:28:47,873] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:28:47,888] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.301 seconds
+[2022-03-28 10:29:19,972] {processor.py:163} INFO - Started process (PID=53637) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:29:19,973] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:29:19,974] {logging_mixin.py:109} INFO - [2022-03-28 10:29:19,974] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:29:20,007] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:29:20,184] {logging_mixin.py:109} INFO - [2022-03-28 10:29:20,184] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:29:20,193] {logging_mixin.py:109} INFO - [2022-03-28 10:29:20,193] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:29:20,202] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.233 seconds
+[2022-03-28 10:29:52,192] {processor.py:163} INFO - Started process (PID=53673) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:29:52,194] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:29:52,195] {logging_mixin.py:109} INFO - [2022-03-28 10:29:52,195] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:29:52,228] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:29:52,436] {logging_mixin.py:109} INFO - [2022-03-28 10:29:52,436] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:29:52,444] {logging_mixin.py:109} INFO - [2022-03-28 10:29:52,444] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:29:52,455] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.267 seconds
+[2022-03-28 10:30:25,482] {processor.py:163} INFO - Started process (PID=53706) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:30:25,483] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:30:25,484] {logging_mixin.py:109} INFO - [2022-03-28 10:30:25,484] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:30:25,517] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:30:25,708] {logging_mixin.py:109} INFO - [2022-03-28 10:30:25,708] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:30:25,719] {logging_mixin.py:109} INFO - [2022-03-28 10:30:25,718] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:30:25,728] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.250 seconds
+[2022-03-28 10:30:57,454] {processor.py:163} INFO - Started process (PID=53738) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:30:57,456] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:30:57,456] {logging_mixin.py:109} INFO - [2022-03-28 10:30:57,456] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:30:57,484] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:30:57,651] {logging_mixin.py:109} INFO - [2022-03-28 10:30:57,651] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:30:57,659] {logging_mixin.py:109} INFO - [2022-03-28 10:30:57,659] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:30:57,668] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.217 seconds
+[2022-03-28 10:31:30,978] {processor.py:163} INFO - Started process (PID=53770) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:31:30,980] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:31:30,981] {logging_mixin.py:109} INFO - [2022-03-28 10:31:30,981] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:31:31,011] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:31:31,192] {logging_mixin.py:109} INFO - [2022-03-28 10:31:31,192] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:31:31,200] {logging_mixin.py:109} INFO - [2022-03-28 10:31:31,200] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:31:31,209] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.237 seconds
+[2022-03-28 10:32:05,859] {processor.py:163} INFO - Started process (PID=53808) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:32:05,862] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:32:05,863] {logging_mixin.py:109} INFO - [2022-03-28 10:32:05,863] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:32:05,904] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:32:06,106] {logging_mixin.py:109} INFO - [2022-03-28 10:32:06,106] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:32:06,115] {logging_mixin.py:109} INFO - [2022-03-28 10:32:06,115] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:32:06,124] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.270 seconds
+[2022-03-28 10:32:39,031] {processor.py:163} INFO - Started process (PID=53840) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:32:39,033] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:32:39,034] {logging_mixin.py:109} INFO - [2022-03-28 10:32:39,034] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:32:39,068] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:32:39,324] {logging_mixin.py:109} INFO - [2022-03-28 10:32:39,324] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:32:39,336] {logging_mixin.py:109} INFO - [2022-03-28 10:32:39,336] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:32:39,351] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.323 seconds
+[2022-03-28 10:33:11,620] {processor.py:163} INFO - Started process (PID=53872) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:33:11,621] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:33:11,622] {logging_mixin.py:109} INFO - [2022-03-28 10:33:11,622] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:33:11,655] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:33:11,870] {logging_mixin.py:109} INFO - [2022-03-28 10:33:11,870] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:33:11,883] {logging_mixin.py:109} INFO - [2022-03-28 10:33:11,883] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:33:11,893] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.278 seconds
+[2022-03-28 10:33:42,631] {processor.py:163} INFO - Started process (PID=53908) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:33:42,633] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:33:42,633] {logging_mixin.py:109} INFO - [2022-03-28 10:33:42,633] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:33:42,667] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:33:42,876] {logging_mixin.py:109} INFO - [2022-03-28 10:33:42,876] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:33:42,889] {logging_mixin.py:109} INFO - [2022-03-28 10:33:42,889] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:33:42,900] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.273 seconds
+[2022-03-28 10:34:13,021] {processor.py:163} INFO - Started process (PID=53937) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:34:13,024] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:34:13,027] {logging_mixin.py:109} INFO - [2022-03-28 10:34:13,027] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:34:13,073] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:34:13,320] {logging_mixin.py:109} INFO - [2022-03-28 10:34:13,320] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:34:13,335] {logging_mixin.py:109} INFO - [2022-03-28 10:34:13,335] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:34:13,344] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.328 seconds
+[2022-03-28 10:34:44,280] {processor.py:163} INFO - Started process (PID=53968) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:34:44,282] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:34:44,284] {logging_mixin.py:109} INFO - [2022-03-28 10:34:44,284] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:34:44,332] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:34:44,571] {logging_mixin.py:109} INFO - [2022-03-28 10:34:44,570] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:34:44,580] {logging_mixin.py:109} INFO - [2022-03-28 10:34:44,580] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:34:44,594] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.321 seconds
+[2022-03-28 10:35:20,557] {processor.py:163} INFO - Started process (PID=54000) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:35:20,558] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:35:20,559] {logging_mixin.py:109} INFO - [2022-03-28 10:35:20,559] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:35:20,591] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:35:20,800] {logging_mixin.py:109} INFO - [2022-03-28 10:35:20,800] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:35:20,810] {logging_mixin.py:109} INFO - [2022-03-28 10:35:20,810] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:35:20,820] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.267 seconds
+[2022-03-28 10:35:51,493] {processor.py:163} INFO - Started process (PID=54029) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:35:51,495] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:35:51,496] {logging_mixin.py:109} INFO - [2022-03-28 10:35:51,495] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:35:51,531] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:35:51,748] {logging_mixin.py:109} INFO - [2022-03-28 10:35:51,748] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:35:51,760] {logging_mixin.py:109} INFO - [2022-03-28 10:35:51,759] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:35:51,771] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.286 seconds
+[2022-03-28 10:36:23,093] {processor.py:163} INFO - Started process (PID=54058) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:36:23,096] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:36:23,097] {logging_mixin.py:109} INFO - [2022-03-28 10:36:23,097] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:36:23,132] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:36:23,338] {logging_mixin.py:109} INFO - [2022-03-28 10:36:23,337] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:36:23,352] {logging_mixin.py:109} INFO - [2022-03-28 10:36:23,352] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:36:23,363] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.275 seconds
+[2022-03-28 10:36:55,148] {processor.py:163} INFO - Started process (PID=54089) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:36:55,150] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:36:55,150] {logging_mixin.py:109} INFO - [2022-03-28 10:36:55,150] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:36:55,187] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:36:55,419] {logging_mixin.py:109} INFO - [2022-03-28 10:36:55,419] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:36:55,430] {logging_mixin.py:109} INFO - [2022-03-28 10:36:55,429] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:36:55,442] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.299 seconds
+[2022-03-28 10:37:26,887] {processor.py:163} INFO - Started process (PID=54134) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:37:26,889] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:37:26,890] {logging_mixin.py:109} INFO - [2022-03-28 10:37:26,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:37:26,928] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:37:27,191] {logging_mixin.py:109} INFO - [2022-03-28 10:37:27,191] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:37:27,202] {logging_mixin.py:109} INFO - [2022-03-28 10:37:27,202] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:37:27,215] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.332 seconds
+[2022-03-28 10:38:00,858] {processor.py:163} INFO - Started process (PID=54169) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:38:00,859] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:38:00,860] {logging_mixin.py:109} INFO - [2022-03-28 10:38:00,860] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:38:00,901] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:38:01,127] {logging_mixin.py:109} INFO - [2022-03-28 10:38:01,126] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:38:01,140] {logging_mixin.py:109} INFO - [2022-03-28 10:38:01,139] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:38:01,154] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.300 seconds
+[2022-03-28 10:38:33,526] {processor.py:163} INFO - Started process (PID=54235) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:38:33,527] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:38:33,528] {logging_mixin.py:109} INFO - [2022-03-28 10:38:33,528] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:38:33,559] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:38:33,779] {logging_mixin.py:109} INFO - [2022-03-28 10:38:33,778] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:38:33,788] {logging_mixin.py:109} INFO - [2022-03-28 10:38:33,788] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:38:33,796] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.278 seconds
+[2022-03-28 10:39:06,881] {processor.py:163} INFO - Started process (PID=54296) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:39:06,883] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:39:06,884] {logging_mixin.py:109} INFO - [2022-03-28 10:39:06,884] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:39:06,915] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:39:07,107] {logging_mixin.py:109} INFO - [2022-03-28 10:39:07,107] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:39:07,122] {logging_mixin.py:109} INFO - [2022-03-28 10:39:07,122] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:39:07,138] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.260 seconds
+[2022-03-28 10:39:37,742] {processor.py:163} INFO - Started process (PID=54337) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:39:37,744] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:39:37,744] {logging_mixin.py:109} INFO - [2022-03-28 10:39:37,744] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:39:37,779] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:39:37,979] {logging_mixin.py:109} INFO - [2022-03-28 10:39:37,979] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:39:37,990] {logging_mixin.py:109} INFO - [2022-03-28 10:39:37,990] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:39:37,999] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.262 seconds
+[2022-03-28 10:40:10,011] {processor.py:163} INFO - Started process (PID=54373) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:40:10,013] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:40:10,014] {logging_mixin.py:109} INFO - [2022-03-28 10:40:10,014] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:40:10,046] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:40:10,220] {logging_mixin.py:109} INFO - [2022-03-28 10:40:10,220] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:40:10,229] {logging_mixin.py:109} INFO - [2022-03-28 10:40:10,229] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:40:10,238] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.231 seconds
+[2022-03-28 10:40:41,767] {processor.py:163} INFO - Started process (PID=54484) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:40:41,768] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:40:41,769] {logging_mixin.py:109} INFO - [2022-03-28 10:40:41,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:40:41,801] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:40:41,981] {logging_mixin.py:109} INFO - [2022-03-28 10:40:41,981] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:40:41,992] {logging_mixin.py:109} INFO - [2022-03-28 10:40:41,991] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:40:42,001] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.239 seconds
+[2022-03-28 10:41:12,579] {processor.py:163} INFO - Started process (PID=54514) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:41:12,580] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:41:12,580] {logging_mixin.py:109} INFO - [2022-03-28 10:41:12,580] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:41:12,618] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:41:12,797] {logging_mixin.py:109} INFO - [2022-03-28 10:41:12,797] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:41:12,806] {logging_mixin.py:109} INFO - [2022-03-28 10:41:12,806] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:41:12,819] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.244 seconds
+[2022-03-28 10:41:45,972] {processor.py:163} INFO - Started process (PID=54546) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:41:45,974] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:41:45,974] {logging_mixin.py:109} INFO - [2022-03-28 10:41:45,974] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:41:46,003] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:41:46,169] {logging_mixin.py:109} INFO - [2022-03-28 10:41:46,169] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:41:46,178] {logging_mixin.py:109} INFO - [2022-03-28 10:41:46,178] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:41:46,187] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.218 seconds
+[2022-03-28 10:42:18,424] {processor.py:163} INFO - Started process (PID=54579) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:42:18,426] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:42:18,426] {logging_mixin.py:109} INFO - [2022-03-28 10:42:18,426] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:42:18,454] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:42:18,631] {logging_mixin.py:109} INFO - [2022-03-28 10:42:18,631] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:42:18,642] {logging_mixin.py:109} INFO - [2022-03-28 10:42:18,642] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:42:18,651] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.229 seconds
+[2022-03-28 10:42:49,378] {processor.py:163} INFO - Started process (PID=54629) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:42:49,380] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:42:49,380] {logging_mixin.py:109} INFO - [2022-03-28 10:42:49,380] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:42:49,408] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:42:49,576] {logging_mixin.py:109} INFO - [2022-03-28 10:42:49,576] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:42:49,585] {logging_mixin.py:109} INFO - [2022-03-28 10:42:49,585] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:42:49,594] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.219 seconds
+[2022-03-28 10:43:21,445] {processor.py:163} INFO - Started process (PID=54667) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:43:21,446] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:43:21,447] {logging_mixin.py:109} INFO - [2022-03-28 10:43:21,447] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:43:21,499] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:43:21,769] {logging_mixin.py:109} INFO - [2022-03-28 10:43:21,769] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:43:21,779] {logging_mixin.py:109} INFO - [2022-03-28 10:43:21,779] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:43:21,790] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.349 seconds
+[2022-03-28 10:43:55,605] {processor.py:163} INFO - Started process (PID=54723) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:43:55,606] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:43:55,607] {logging_mixin.py:109} INFO - [2022-03-28 10:43:55,607] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:43:55,645] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:43:55,823] {logging_mixin.py:109} INFO - [2022-03-28 10:43:55,823] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:43:55,833] {logging_mixin.py:109} INFO - [2022-03-28 10:43:55,833] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:43:55,843] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.241 seconds
+[2022-03-28 10:44:27,002] {processor.py:163} INFO - Started process (PID=54774) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:44:27,004] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:44:27,009] {logging_mixin.py:109} INFO - [2022-03-28 10:44:27,008] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:44:27,041] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:44:27,224] {logging_mixin.py:109} INFO - [2022-03-28 10:44:27,224] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:44:27,235] {logging_mixin.py:109} INFO - [2022-03-28 10:44:27,235] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:44:27,245] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.247 seconds
+[2022-03-28 10:44:57,674] {processor.py:163} INFO - Started process (PID=54802) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:44:57,676] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:44:57,677] {logging_mixin.py:109} INFO - [2022-03-28 10:44:57,677] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:44:57,714] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:44:57,950] {logging_mixin.py:109} INFO - [2022-03-28 10:44:57,950] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:44:57,965] {logging_mixin.py:109} INFO - [2022-03-28 10:44:57,965] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:44:57,984] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.313 seconds
+[2022-03-28 10:45:32,190] {processor.py:163} INFO - Started process (PID=54840) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:45:32,192] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:45:32,192] {logging_mixin.py:109} INFO - [2022-03-28 10:45:32,192] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:45:32,229] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:45:32,442] {logging_mixin.py:109} INFO - [2022-03-28 10:45:32,442] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:45:32,457] {logging_mixin.py:109} INFO - [2022-03-28 10:45:32,456] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:45:32,467] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.280 seconds
+[2022-03-28 10:46:04,539] {processor.py:163} INFO - Started process (PID=54915) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:46:04,541] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:46:04,542] {logging_mixin.py:109} INFO - [2022-03-28 10:46:04,542] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:46:04,573] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:46:04,746] {logging_mixin.py:109} INFO - [2022-03-28 10:46:04,746] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:46:04,754] {logging_mixin.py:109} INFO - [2022-03-28 10:46:04,754] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:46:04,764] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.231 seconds
+[2022-03-28 10:46:38,947] {processor.py:163} INFO - Started process (PID=54950) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:46:38,948] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:46:38,948] {logging_mixin.py:109} INFO - [2022-03-28 10:46:38,948] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:46:38,984] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:46:39,185] {logging_mixin.py:109} INFO - [2022-03-28 10:46:39,184] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:46:39,194] {logging_mixin.py:109} INFO - [2022-03-28 10:46:39,194] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:46:39,203] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.261 seconds
+[2022-03-28 10:47:26,251] {processor.py:163} INFO - Started process (PID=54990) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:47:26,253] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:47:26,253] {logging_mixin.py:109} INFO - [2022-03-28 10:47:26,253] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:47:26,287] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:47:26,485] {logging_mixin.py:109} INFO - [2022-03-28 10:47:26,485] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:47:26,495] {logging_mixin.py:109} INFO - [2022-03-28 10:47:26,495] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:47:26,827] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.580 seconds
+[2022-03-28 10:48:01,379] {processor.py:163} INFO - Started process (PID=55016) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:48:01,381] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:48:01,381] {logging_mixin.py:109} INFO - [2022-03-28 10:48:01,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:48:01,411] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:48:02,192] {logging_mixin.py:109} INFO - [2022-03-28 10:48:02,192] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:48:02,203] {logging_mixin.py:109} INFO - [2022-03-28 10:48:02,202] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:48:02,624] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 1.249 seconds
+[2022-03-28 10:48:37,489] {processor.py:163} INFO - Started process (PID=55068) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:48:37,491] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:48:37,491] {logging_mixin.py:109} INFO - [2022-03-28 10:48:37,491] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:48:37,561] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:48:37,899] {logging_mixin.py:109} INFO - [2022-03-28 10:48:37,899] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:48:37,908] {logging_mixin.py:109} INFO - [2022-03-28 10:48:37,908] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:48:37,923] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.437 seconds
+[2022-03-28 10:49:10,948] {processor.py:163} INFO - Started process (PID=55102) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:49:10,950] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:49:10,951] {logging_mixin.py:109} INFO - [2022-03-28 10:49:10,951] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:49:10,980] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:49:11,159] {logging_mixin.py:109} INFO - [2022-03-28 10:49:11,159] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:49:11,169] {logging_mixin.py:109} INFO - [2022-03-28 10:49:11,169] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:49:11,179] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.235 seconds
+[2022-03-28 10:49:42,494] {processor.py:163} INFO - Started process (PID=55133) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:49:42,495] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:49:42,496] {logging_mixin.py:109} INFO - [2022-03-28 10:49:42,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:49:42,525] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:49:42,691] {logging_mixin.py:109} INFO - [2022-03-28 10:49:42,691] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:49:42,699] {logging_mixin.py:109} INFO - [2022-03-28 10:49:42,699] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:49:42,709] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.218 seconds
+[2022-03-28 10:50:13,845] {processor.py:163} INFO - Started process (PID=55164) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:50:13,846] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:50:13,846] {logging_mixin.py:109} INFO - [2022-03-28 10:50:13,846] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:50:13,877] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:50:14,044] {logging_mixin.py:109} INFO - [2022-03-28 10:50:14,044] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:50:14,053] {logging_mixin.py:109} INFO - [2022-03-28 10:50:14,053] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:50:14,062] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.220 seconds
+[2022-03-28 10:50:46,522] {processor.py:163} INFO - Started process (PID=55196) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:50:46,524] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:50:46,524] {logging_mixin.py:109} INFO - [2022-03-28 10:50:46,524] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:50:46,554] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:50:46,729] {logging_mixin.py:109} INFO - [2022-03-28 10:50:46,729] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:50:46,738] {logging_mixin.py:109} INFO - [2022-03-28 10:50:46,737] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:50:46,747] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.228 seconds
+[2022-03-28 10:51:18,264] {processor.py:163} INFO - Started process (PID=55226) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:51:18,266] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:51:18,267] {logging_mixin.py:109} INFO - [2022-03-28 10:51:18,267] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:51:18,300] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:51:18,514] {logging_mixin.py:109} INFO - [2022-03-28 10:51:18,514] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:51:18,523] {logging_mixin.py:109} INFO - [2022-03-28 10:51:18,523] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:51:18,537] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.278 seconds
+[2022-03-28 10:51:51,283] {processor.py:163} INFO - Started process (PID=55258) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:51:51,285] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:51:51,285] {logging_mixin.py:109} INFO - [2022-03-28 10:51:51,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:51:51,319] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:51:51,536] {logging_mixin.py:109} INFO - [2022-03-28 10:51:51,536] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:51:51,546] {logging_mixin.py:109} INFO - [2022-03-28 10:51:51,545] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:51:51,555] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.277 seconds
+[2022-03-28 10:52:22,843] {processor.py:163} INFO - Started process (PID=55289) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:52:22,845] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:52:22,845] {logging_mixin.py:109} INFO - [2022-03-28 10:52:22,845] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:52:22,879] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:52:23,148] {logging_mixin.py:109} INFO - [2022-03-28 10:52:23,148] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:52:23,170] {logging_mixin.py:109} INFO - [2022-03-28 10:52:23,169] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:52:23,182] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.342 seconds
+[2022-03-28 10:52:55,265] {processor.py:163} INFO - Started process (PID=55325) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:52:55,271] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:52:55,272] {logging_mixin.py:109} INFO - [2022-03-28 10:52:55,272] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:52:55,302] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:52:55,476] {logging_mixin.py:109} INFO - [2022-03-28 10:52:55,476] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:52:55,489] {logging_mixin.py:109} INFO - [2022-03-28 10:52:55,489] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:52:55,499] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.244 seconds
+[2022-03-28 10:53:29,813] {processor.py:163} INFO - Started process (PID=55360) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:53:29,814] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:53:29,815] {logging_mixin.py:109} INFO - [2022-03-28 10:53:29,814] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:53:29,845] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:53:30,031] {logging_mixin.py:109} INFO - [2022-03-28 10:53:30,031] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:53:30,040] {logging_mixin.py:109} INFO - [2022-03-28 10:53:30,040] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:53:30,050] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.240 seconds
+[2022-03-28 10:54:00,281] {processor.py:163} INFO - Started process (PID=55392) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:54:00,283] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:54:00,284] {logging_mixin.py:109} INFO - [2022-03-28 10:54:00,284] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:54:00,317] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:54:00,500] {logging_mixin.py:109} INFO - [2022-03-28 10:54:00,500] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:54:00,511] {logging_mixin.py:109} INFO - [2022-03-28 10:54:00,511] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:54:00,522] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.248 seconds
+[2022-03-28 10:54:34,480] {processor.py:163} INFO - Started process (PID=55424) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:54:34,481] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:54:34,482] {logging_mixin.py:109} INFO - [2022-03-28 10:54:34,482] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:54:34,512] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:54:34,729] {logging_mixin.py:109} INFO - [2022-03-28 10:54:34,729] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:54:34,740] {logging_mixin.py:109} INFO - [2022-03-28 10:54:34,740] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:54:34,749] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.272 seconds
+[2022-03-28 10:55:07,975] {processor.py:163} INFO - Started process (PID=55455) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:55:07,976] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-03-28 10:55:07,977] {logging_mixin.py:109} INFO - [2022-03-28 10:55:07,977] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:55:08,007] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-03-28 10:55:08,199] {logging_mixin.py:109} INFO - [2022-03-28 10:55:08,199] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-28 10:55:08,212] {logging_mixin.py:109} INFO - [2022-03-28 10:55:08,211] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-03-28 10:55:08,223] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.252 seconds
