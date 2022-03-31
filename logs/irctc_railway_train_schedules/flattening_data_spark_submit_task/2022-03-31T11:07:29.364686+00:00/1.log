@@ -1,0 +1,92 @@
+[2022-03-31 04:07:31,846] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: irctc_railway_train_schedules.flattening_data_spark_submit_task manual__2022-03-31T11:07:29.364686+00:00 [queued]>
+[2022-03-31 04:07:31,852] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: irctc_railway_train_schedules.flattening_data_spark_submit_task manual__2022-03-31T11:07:29.364686+00:00 [queued]>
+[2022-03-31 04:07:31,852] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-31 04:07:31,852] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-03-31 04:07:31,852] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-31 04:07:31,862] {taskinstance.py:1264} INFO - Executing <Task(SparkSubmitOperator): flattening_data_spark_submit_task> on 2022-03-31 11:07:29.364686+00:00
+[2022-03-31 04:07:31,864] {standard_task_runner.py:52} INFO - Started process 4885 to run task
+[2022-03-31 04:07:31,868] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'irctc_railway_train_schedules', 'flattening_data_spark_submit_task', 'manual__2022-03-31T11:07:29.364686+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/irctc_railway_train_schedules.py', '--cfg-path', '/tmp/tmpktj36hsp', '--error-file', '/tmp/tmp9oxxfktn']
+[2022-03-31 04:07:31,869] {standard_task_runner.py:77} INFO - Job 21: Subtask flattening_data_spark_submit_task
+[2022-03-31 04:07:31,906] {logging_mixin.py:109} INFO - Running <TaskInstance: irctc_railway_train_schedules.flattening_data_spark_submit_task manual__2022-03-31T11:07:29.364686+00:00 [running]> on host ubuntu
+[2022-03-31 04:07:31,943] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=irctc_railway_train_schedules
+AIRFLOW_CTX_TASK_ID=flattening_data_spark_submit_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-03-31T11:07:29.364686+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-03-31T11:07:29.364686+00:00
+[2022-03-31 04:07:31,947] {base.py:70} INFO - Using connection to: id: spark_submit_connection. Host: spark://ubuntu, Port: 7077, Schema: , Login: , Password: None, extra: {}
+[2022-03-31 04:07:31,948] {spark_submit.py:335} INFO - Spark-Submit cmd: spark-submit --master spark://ubuntu:7077 --name arrow-spark --class com.hackprotech.railways.RailwaysDataFlatteningUsingDF /home/vengat/big_data/projects/spark_jars/spark-realtime-projects-assembly-2.1.0.jar
+[2022-03-31 04:07:34,196] {spark_submit.py:488} INFO - 22/03/31 04:07:34 WARN Utils: Your hostname, ubuntu resolves to a loopback address: 127.0.1.1; using 192.168.232.128 instead (on interface ens33)
+[2022-03-31 04:07:34,197] {spark_submit.py:488} INFO - 22/03/31 04:07:34 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+[2022-03-31 04:07:35,223] {spark_submit.py:488} INFO - Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+[2022-03-31 04:08:01,867] {spark_submit.py:488} INFO - +--------+---+---------+------+------------+-------------------+-------------------------------------+------------+
+[2022-03-31 04:08:01,867] {spark_submit.py:488} INFO - |arrival |day|departure|id    |station_code|station_name       |train_name                           |train_number|
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - +--------+---+---------+------+------------+-------------------+-------------------------------------+------------+
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |07:55:00 |302214|FM          |KACHEGUDA FALAKNUMA|Falaknuma Lingampalli MMTS           |47154       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |18:55:00 |281458|TCR         |THRISUR            |Thrissur Guruvayur Passenger         |56044       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |15:05:00 |309335|PBR         |PORBANDAR          |Porbandar Muzaffarpur Express        |19269       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |13:30:00 |283774|R           |RAIPUR JN          |RAIPUR ITWARI PASS                   |58205       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |07:20:00 |319937|GMO         |GOMOH JN           |Gomoh-Asansol MEMU                   |63542       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |16:15:00 |520605|RBL         |RAE BARELI JN      |Rai Bareli-Mumbai LTT Saket Express  |21068       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |13:25:00 |335930|SBHR        |Subrahmanya Road   |Subramanya Road Mangalore Passenger  |56646       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |07:30:00 |282535|ERS         |ERNAKULAM JN       |Ernakulam Alappuzha Passenger        |56379       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |18:40:00 |336174|SRU         |SALEMPUR JN        |Salempur Barhaj Passenger            |55145       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |15:15:00 |17022 |BIR         |Bir                |Bir Khandwa Shuttle                  |51688       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |17:50:00 |336193|ASN         |ASANSOL JN         |Asansol-Bokaro Steel City MEMU       |63596       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |18:40:00 |282465|TPU         |Tanakpur           |Tanakpur Aishbagh Express            |52228       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |21:10:00 |336178|BTD         |BOTAD JN           |Botad Bhavnagar Passenger            |59227       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |07:25:00 |168737|MFP         |MUZAFFARPUR JN     |Harihar Express                      |14523       |
+[2022-03-31 04:08:01,868] {spark_submit.py:488} INFO - |None    |1  |07:10:00 |336277|BRMP        |Biramitrapur       |Birmitrapur Barsuan Passenger        |58151       |
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - |None    |1  |17:05:00 |299325|PTN         |PATAN              |Patan Mehsana Passenger              |59478       |
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - |None    |1  |20:32:00 |336057|SDAH        |KOLKATA SEALDAH    |Sealdah-Gede Local                   |31929       |
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - |06:49:00|1  |06:50:00 |11813 |PPR         |PIPAR ROAD JN      |Pipar Road -Jodhpur Passenger Special|04857       |
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - |None    |1  |09:15:00 |318164|BXR         |BUXAR              |Buxar Mughal Sarai Passenger         |53215       |
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - |None    |1  |17:50:00 |299882|HWH         |HOWRAH JN          |Howrah Panskura EMU                  |38453       |
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - +--------+---+---------+------+------------+-------------------+-------------------------------------+------------+
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - only showing top 20 rows
+[2022-03-31 04:08:01,869] {spark_submit.py:488} INFO - 
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - root
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |-- coordinates: array (nullable = true)
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |    |-- element: double (containsNull = true)
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |-- state: string (nullable = true)
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |-- station_code: string (nullable = true)
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |-- name: string (nullable = true)
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |-- zone: string (nullable = true)
+[2022-03-31 04:08:02,430] {spark_submit.py:488} INFO - |-- address: string (nullable = true)
+[2022-03-31 04:08:02,431] {spark_submit.py:488} INFO - 
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - +---------------------------------------+--------------+------------+-----------------------+----+----------------------------+
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - |coordinates                            |state         |station_code|name                   |zone|address                     |
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - +---------------------------------------+--------------+------------+-----------------------+----+----------------------------+
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - |[75.4516454, 27.2520587]               |Rajasthan     |BDHL        |Badhal                 |NWR |Kishangarh Renwal, Rajasthan|
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - |null                                   |null          |XX-BECE     |XX-BECE                |null|null                        |
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - |null                                   |null          |XX-BSPY     |XX-BSPY                |null|null                        |
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - |null                                   |null          |YY-BPLC     |YY-BPLC                |null|null                        |
+[2022-03-31 04:08:03,639] {spark_submit.py:488} INFO - |[79.519746, 28.913427000000002]        |Uttar Pradesh |KHH         |KICHHA                 |NER |Kichha, Uttar Pradesh       |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[74.43499088287354, 29.55519806064484] |Rajasthan     |SRKN        |Sherekan               |NWR |MDR 89, Rajasthan           |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[74.75103096105158, 29.238227312503696]|Rajasthan     |BKKA        |Bhukarka               |NWR |Bhukarka, Rajasthan         |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[74.77362781763077, 29.192562738768984]|Rajasthan     |NHR         |Nohar                  |NWR |State Highway 36, Rajasthan |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[80.231363, 12.975217]                 |Tamil Nadu    |PRGD        |Perungudi              |SR  |Chennai, Tamil Nadu         |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[74.7179570607841, 29.345637263205944] |Haryana       |KNNA        |Khinaniyan             |NWR |State Highway 23, Haryana   |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[78.216684, 21.838466]                 |null          |JKR         |JAULKHERA              |null|null                        |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[78.03136099999999, 21.909813]         |null          |BYS         |BARSALI                |null|null                        |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[78.936311, 23.838185999999997]        |null          |GW          |GIRWAR                 |null|null                        |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[79.019912, 23.871771000000003]        |null          |DGD         |DANGIDHAR              |null|null                        |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[75.10354600000001, 23.770740999999997]|Madhya Pradesh|DOD         |DHODHAR                |WR  |Dhodar, Madhya Pradesh      |
+[2022-03-31 04:08:03,640] {spark_submit.py:488} INFO - |[79.074633, 23.895862]                 |null          |GAJ         |GANESHGANJ             |null|null                        |
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - |[88.415324, 22.168635]                 |West Bengal   |JNM         |Jayanagar Majilpur Halt|ER  |Jaynagar, West Bengal       |
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - |[74.71699100000001, 26.294459999999997]|Rajasthan     |NSD         |NASIRABAD              |NWR |Nasirabad, Rajasthan        |
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - |[79.192899, 23.905726]                 |null          |PHA         |PATHARIA               |null|null                        |
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - |[78.103238, 18.679164999999998]        |Andhra Pradesh|NZB         |NIZAMABAD              |SCR |Nizamabad, Andhra Pradesh   |
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - +---------------------------------------+--------------+------------+-----------------------+----+----------------------------+
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - only showing top 20 rows
+[2022-03-31 04:08:03,647] {spark_submit.py:488} INFO - 
+[2022-03-31 04:08:05,681] {spark_submit.py:488} INFO - Station details persisted successfully!
+[2022-03-31 04:08:05,908] {spark_submit.py:488} INFO - 22/03/31 04:08:05 WARN NioEventLoop: Selector.select() returned prematurely 512 times in a row; rebuilding Selector io.netty.channel.nio.SelectedSelectionKeySetSelector@247d44f8.
+[2022-03-31 04:08:05,923] {spark_submit.py:488} INFO - 22/03/31 04:08:05 WARN NioEventLoop: Selector.select() returned prematurely 512 times in a row; rebuilding Selector io.netty.channel.nio.SelectedSelectionKeySetSelector@1ee4e7e8.
+[2022-03-31 04:08:05,924] {spark_submit.py:488} INFO - 22/03/31 04:08:05 INFO NioEventLoop: Migrated 0 channel(s) to the new Selector.
+[2022-03-31 04:08:05,924] {spark_submit.py:488} INFO - 22/03/31 04:08:05 INFO NioEventLoop: Migrated 0 channel(s) to the new Selector.
+[2022-03-31 04:08:06,133] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=irctc_railway_train_schedules, task_id=flattening_data_spark_submit_task, execution_date=20220331T110729, start_date=20220331T110731, end_date=20220331T110806
+[2022-03-31 04:08:06,183] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-03-31 04:08:06,227] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
