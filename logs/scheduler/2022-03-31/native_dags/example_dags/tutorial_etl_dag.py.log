@@ -6473,3 +6473,115 @@
 [2022-03-31 05:37:30,519] {logging_mixin.py:109} INFO - [2022-03-31 05:37:30,519] {dag.py:2398} INFO - Sync 1 DAGs
 [2022-03-31 05:37:30,531] {logging_mixin.py:109} INFO - [2022-03-31 05:37:30,531] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
 [2022-03-31 05:37:30,558] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.075 seconds
+[2022-03-31 05:38:07,815] {processor.py:163} INFO - Started process (PID=11002) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:38:07,816] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:38:07,817] {logging_mixin.py:109} INFO - [2022-03-31 05:38:07,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:38:07,834] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:38:07,842] {logging_mixin.py:109} INFO - [2022-03-31 05:38:07,842] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:38:07,852] {logging_mixin.py:109} INFO - [2022-03-31 05:38:07,852] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:38:07,861] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2022-03-31 05:38:42,919] {processor.py:163} INFO - Started process (PID=11183) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:38:42,921] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:38:42,922] {logging_mixin.py:109} INFO - [2022-03-31 05:38:42,922] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:38:42,939] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:38:42,946] {logging_mixin.py:109} INFO - [2022-03-31 05:38:42,946] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:38:42,957] {logging_mixin.py:109} INFO - [2022-03-31 05:38:42,956] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:38:42,973] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.057 seconds
+[2022-03-31 05:39:18,050] {processor.py:163} INFO - Started process (PID=11241) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:39:18,054] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:39:18,074] {logging_mixin.py:109} INFO - [2022-03-31 05:39:18,074] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:39:18,092] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:39:18,124] {logging_mixin.py:109} INFO - [2022-03-31 05:39:18,124] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:39:18,138] {logging_mixin.py:109} INFO - [2022-03-31 05:39:18,138] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:39:18,178] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.132 seconds
+[2022-03-31 05:39:51,963] {processor.py:163} INFO - Started process (PID=11299) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:39:51,965] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:39:51,967] {logging_mixin.py:109} INFO - [2022-03-31 05:39:51,967] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:39:51,985] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:39:51,995] {logging_mixin.py:109} INFO - [2022-03-31 05:39:51,995] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:39:52,004] {logging_mixin.py:109} INFO - [2022-03-31 05:39:52,004] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:39:52,014] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2022-03-31 05:40:39,031] {processor.py:163} INFO - Started process (PID=11500) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:40:39,033] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:40:39,034] {logging_mixin.py:109} INFO - [2022-03-31 05:40:39,034] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:40:39,438] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:40:40,909] {logging_mixin.py:109} INFO - [2022-03-31 05:40:40,894] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:40:41,301] {logging_mixin.py:109} INFO - [2022-03-31 05:40:41,301] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:40:41,543] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 2.515 seconds
+[2022-03-31 05:41:24,860] {processor.py:163} INFO - Started process (PID=11687) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:41:24,899] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:41:24,899] {logging_mixin.py:109} INFO - [2022-03-31 05:41:24,899] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:41:24,919] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:41:24,973] {logging_mixin.py:109} INFO - [2022-03-31 05:41:24,972] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:41:24,995] {logging_mixin.py:109} INFO - [2022-03-31 05:41:24,995] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:41:25,310] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.460 seconds
+[2022-03-31 05:41:58,366] {processor.py:163} INFO - Started process (PID=11718) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:41:58,368] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:41:58,369] {logging_mixin.py:109} INFO - [2022-03-31 05:41:58,369] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:41:58,386] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:41:58,393] {logging_mixin.py:109} INFO - [2022-03-31 05:41:58,393] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:41:58,405] {logging_mixin.py:109} INFO - [2022-03-31 05:41:58,404] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:41:58,415] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2022-03-31 05:42:30,339] {processor.py:163} INFO - Started process (PID=11749) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:42:30,340] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:42:30,340] {logging_mixin.py:109} INFO - [2022-03-31 05:42:30,340] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:42:30,358] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:42:30,367] {logging_mixin.py:109} INFO - [2022-03-31 05:42:30,367] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:42:30,378] {logging_mixin.py:109} INFO - [2022-03-31 05:42:30,377] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:42:30,418] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.082 seconds
+[2022-03-31 05:43:04,038] {processor.py:163} INFO - Started process (PID=11781) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:43:04,040] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:43:04,041] {logging_mixin.py:109} INFO - [2022-03-31 05:43:04,040] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:43:04,058] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:43:04,067] {logging_mixin.py:109} INFO - [2022-03-31 05:43:04,067] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:43:04,078] {logging_mixin.py:109} INFO - [2022-03-31 05:43:04,078] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:43:04,087] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2022-03-31 05:43:35,577] {processor.py:163} INFO - Started process (PID=11819) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:43:35,578] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:43:35,579] {logging_mixin.py:109} INFO - [2022-03-31 05:43:35,579] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:43:35,599] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:43:35,611] {logging_mixin.py:109} INFO - [2022-03-31 05:43:35,611] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:43:35,625] {logging_mixin.py:109} INFO - [2022-03-31 05:43:35,625] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:43:35,638] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.065 seconds
+[2022-03-31 05:44:08,297] {processor.py:163} INFO - Started process (PID=11851) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:44:08,298] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:44:08,299] {logging_mixin.py:109} INFO - [2022-03-31 05:44:08,299] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:44:08,316] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:44:08,325] {logging_mixin.py:109} INFO - [2022-03-31 05:44:08,324] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:44:08,335] {logging_mixin.py:109} INFO - [2022-03-31 05:44:08,335] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:44:08,345] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2022-03-31 05:44:39,218] {processor.py:163} INFO - Started process (PID=11882) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:44:39,220] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:44:39,220] {logging_mixin.py:109} INFO - [2022-03-31 05:44:39,220] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:44:39,238] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:44:39,246] {logging_mixin.py:109} INFO - [2022-03-31 05:44:39,246] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:44:39,257] {logging_mixin.py:109} INFO - [2022-03-31 05:44:39,257] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:44:39,266] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.053 seconds
+[2022-03-31 05:45:10,124] {processor.py:163} INFO - Started process (PID=11913) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:45:10,126] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:45:10,126] {logging_mixin.py:109} INFO - [2022-03-31 05:45:10,126] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:45:10,144] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:45:10,152] {logging_mixin.py:109} INFO - [2022-03-31 05:45:10,152] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:45:10,163] {logging_mixin.py:109} INFO - [2022-03-31 05:45:10,163] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:45:10,172] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2022-03-31 05:45:43,344] {processor.py:163} INFO - Started process (PID=11946) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:45:43,346] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:45:43,347] {logging_mixin.py:109} INFO - [2022-03-31 05:45:43,347] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:45:43,366] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:45:43,374] {logging_mixin.py:109} INFO - [2022-03-31 05:45:43,374] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:45:43,385] {logging_mixin.py:109} INFO - [2022-03-31 05:45:43,385] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:45:43,394] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2022-03-31 05:46:17,579] {processor.py:163} INFO - Started process (PID=11979) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:46:17,580] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:46:17,581] {logging_mixin.py:109} INFO - [2022-03-31 05:46:17,581] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:46:17,598] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:46:17,606] {logging_mixin.py:109} INFO - [2022-03-31 05:46:17,606] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:46:17,619] {logging_mixin.py:109} INFO - [2022-03-31 05:46:17,618] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:46:17,627] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.052 seconds
+[2022-03-31 05:46:47,748] {processor.py:163} INFO - Started process (PID=12057) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:46:47,750] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-03-31 05:46:47,750] {logging_mixin.py:109} INFO - [2022-03-31 05:46:47,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:46:47,768] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-03-31 05:46:47,776] {logging_mixin.py:109} INFO - [2022-03-31 05:46:47,776] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:46:47,789] {logging_mixin.py:109} INFO - [2022-03-31 05:46:47,789] {dag.py:2937} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2022-03-31 05:46:47,798] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.055 seconds

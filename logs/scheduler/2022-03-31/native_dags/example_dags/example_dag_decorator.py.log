@@ -5395,3 +5395,108 @@
 [2022-03-31 05:36:59,353] {logging_mixin.py:109} INFO - [2022-03-31 05:36:59,353] {dag.py:2398} INFO - Sync 1 DAGs
 [2022-03-31 05:36:59,381] {logging_mixin.py:109} INFO - [2022-03-31 05:36:59,381] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
 [2022-03-31 05:36:59,397] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.422 seconds
+[2022-03-31 05:37:41,700] {processor.py:163} INFO - Started process (PID=10911) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:37:41,732] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:37:41,733] {logging_mixin.py:109} INFO - [2022-03-31 05:37:41,732] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:37:41,760] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:37:42,148] {logging_mixin.py:109} INFO - [2022-03-31 05:37:42,147] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:37:42,158] {logging_mixin.py:109} INFO - [2022-03-31 05:37:42,158] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:37:42,306] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.609 seconds
+[2022-03-31 05:38:18,400] {processor.py:163} INFO - Started process (PID=11038) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:38:18,402] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:38:18,402] {logging_mixin.py:109} INFO - [2022-03-31 05:38:18,402] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:38:18,427] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:38:18,652] {logging_mixin.py:109} INFO - [2022-03-31 05:38:18,652] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:38:18,659] {logging_mixin.py:109} INFO - [2022-03-31 05:38:18,659] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:38:18,668] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.271 seconds
+[2022-03-31 05:38:53,446] {processor.py:163} INFO - Started process (PID=11211) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:38:53,448] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:38:53,448] {logging_mixin.py:109} INFO - [2022-03-31 05:38:53,448] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:38:53,471] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:38:53,710] {logging_mixin.py:109} INFO - [2022-03-31 05:38:53,710] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:38:53,717] {logging_mixin.py:109} INFO - [2022-03-31 05:38:53,717] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:38:53,771] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.328 seconds
+[2022-03-31 05:39:30,366] {processor.py:163} INFO - Started process (PID=11260) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:39:30,370] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:39:30,370] {logging_mixin.py:109} INFO - [2022-03-31 05:39:30,370] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:39:30,400] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:39:30,647] {logging_mixin.py:109} INFO - [2022-03-31 05:39:30,647] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:39:30,656] {logging_mixin.py:109} INFO - [2022-03-31 05:39:30,656] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:39:30,940] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.578 seconds
+[2022-03-31 05:40:09,411] {processor.py:163} INFO - Started process (PID=11379) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:40:09,412] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:40:09,413] {logging_mixin.py:109} INFO - [2022-03-31 05:40:09,413] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:40:09,476] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:40:09,822] {logging_mixin.py:109} INFO - [2022-03-31 05:40:09,822] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:40:09,841] {logging_mixin.py:109} INFO - [2022-03-31 05:40:09,841] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:40:09,853] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.446 seconds
+[2022-03-31 05:41:14,083] {processor.py:163} INFO - Started process (PID=11677) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:41:14,085] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:41:14,086] {logging_mixin.py:109} INFO - [2022-03-31 05:41:14,086] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:41:14,118] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:41:14,393] {logging_mixin.py:109} INFO - [2022-03-31 05:41:14,393] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:41:14,400] {logging_mixin.py:109} INFO - [2022-03-31 05:41:14,400] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:41:14,411] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.332 seconds
+[2022-03-31 05:41:53,200] {processor.py:163} INFO - Started process (PID=11713) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:41:53,203] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:41:53,204] {logging_mixin.py:109} INFO - [2022-03-31 05:41:53,204] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:41:53,231] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:41:53,456] {logging_mixin.py:109} INFO - [2022-03-31 05:41:53,456] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:41:53,464] {logging_mixin.py:109} INFO - [2022-03-31 05:41:53,464] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:41:53,474] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.281 seconds
+[2022-03-31 05:42:26,709] {processor.py:163} INFO - Started process (PID=11746) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:42:26,710] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:42:26,711] {logging_mixin.py:109} INFO - [2022-03-31 05:42:26,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:42:26,735] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:42:26,986] {logging_mixin.py:109} INFO - [2022-03-31 05:42:26,986] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:42:26,993] {logging_mixin.py:109} INFO - [2022-03-31 05:42:26,993] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:42:27,003] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.297 seconds
+[2022-03-31 05:42:59,263] {processor.py:163} INFO - Started process (PID=11777) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:42:59,265] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:42:59,266] {logging_mixin.py:109} INFO - [2022-03-31 05:42:59,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:42:59,292] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:42:59,519] {logging_mixin.py:109} INFO - [2022-03-31 05:42:59,519] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:42:59,527] {logging_mixin.py:109} INFO - [2022-03-31 05:42:59,527] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:42:59,535] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.277 seconds
+[2022-03-31 05:43:32,917] {processor.py:163} INFO - Started process (PID=11816) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:43:32,919] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:43:32,920] {logging_mixin.py:109} INFO - [2022-03-31 05:43:32,920] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:43:32,944] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:43:33,169] {logging_mixin.py:109} INFO - [2022-03-31 05:43:33,169] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:43:33,177] {logging_mixin.py:109} INFO - [2022-03-31 05:43:33,177] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:43:33,186] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.271 seconds
+[2022-03-31 05:44:06,767] {processor.py:163} INFO - Started process (PID=11850) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:44:06,769] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:44:06,769] {logging_mixin.py:109} INFO - [2022-03-31 05:44:06,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:44:06,809] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:44:07,046] {logging_mixin.py:109} INFO - [2022-03-31 05:44:07,045] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:44:07,053] {logging_mixin.py:109} INFO - [2022-03-31 05:44:07,053] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:44:07,062] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.298 seconds
+[2022-03-31 05:44:42,210] {processor.py:163} INFO - Started process (PID=11885) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:44:42,212] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:44:42,213] {logging_mixin.py:109} INFO - [2022-03-31 05:44:42,213] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:44:42,238] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:44:42,464] {logging_mixin.py:109} INFO - [2022-03-31 05:44:42,463] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:44:42,472] {logging_mixin.py:109} INFO - [2022-03-31 05:44:42,472] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:44:42,481] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.274 seconds
+[2022-03-31 05:45:16,618] {processor.py:163} INFO - Started process (PID=11919) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:45:16,619] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:45:16,620] {logging_mixin.py:109} INFO - [2022-03-31 05:45:16,620] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:45:16,644] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:45:16,886] {logging_mixin.py:109} INFO - [2022-03-31 05:45:16,886] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:45:16,894] {logging_mixin.py:109} INFO - [2022-03-31 05:45:16,894] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:45:16,902] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.287 seconds
+[2022-03-31 05:45:50,218] {processor.py:163} INFO - Started process (PID=11953) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:45:50,221] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:45:50,223] {logging_mixin.py:109} INFO - [2022-03-31 05:45:50,222] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:45:50,257] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:45:50,488] {logging_mixin.py:109} INFO - [2022-03-31 05:45:50,488] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:45:50,497] {logging_mixin.py:109} INFO - [2022-03-31 05:45:50,497] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:45:50,507] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.293 seconds
+[2022-03-31 05:46:25,328] {processor.py:163} INFO - Started process (PID=11993) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:46:25,331] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-03-31 05:46:25,332] {logging_mixin.py:109} INFO - [2022-03-31 05:46:25,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:46:25,362] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-03-31 05:46:25,622] {logging_mixin.py:109} INFO - [2022-03-31 05:46:25,622] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:46:25,637] {logging_mixin.py:109} INFO - [2022-03-31 05:46:25,637] {dag.py:2937} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-03-31 05:46:25,654] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.330 seconds

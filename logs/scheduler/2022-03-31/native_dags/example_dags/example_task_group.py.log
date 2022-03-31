@@ -5773,3 +5773,108 @@
 [2022-03-31 05:37:27,573] {logging_mixin.py:109} INFO - [2022-03-31 05:37:27,573] {dag.py:2398} INFO - Sync 1 DAGs
 [2022-03-31 05:37:27,602] {logging_mixin.py:109} INFO - [2022-03-31 05:37:27,602] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:37:27.602049+00:00
 [2022-03-31 05:37:27,611] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.158 seconds
+[2022-03-31 05:38:10,078] {processor.py:163} INFO - Started process (PID=11006) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:38:10,080] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:38:10,081] {logging_mixin.py:109} INFO - [2022-03-31 05:38:10,081] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:38:10,110] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:38:10,120] {logging_mixin.py:109} INFO - [2022-03-31 05:38:10,120] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:38:10,132] {logging_mixin.py:109} INFO - [2022-03-31 05:38:10,132] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:38:10.132078+00:00
+[2022-03-31 05:38:10,142] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2022-03-31 05:38:44,652] {processor.py:163} INFO - Started process (PID=11185) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:38:44,654] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:38:44,655] {logging_mixin.py:109} INFO - [2022-03-31 05:38:44,654] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:38:44,671] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:38:44,680] {logging_mixin.py:109} INFO - [2022-03-31 05:38:44,680] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:38:44,692] {logging_mixin.py:109} INFO - [2022-03-31 05:38:44,692] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:38:44.692133+00:00
+[2022-03-31 05:38:44,709] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2022-03-31 05:39:22,455] {processor.py:163} INFO - Started process (PID=11252) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:39:22,456] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:39:22,457] {logging_mixin.py:109} INFO - [2022-03-31 05:39:22,457] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:39:22,507] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:39:22,526] {logging_mixin.py:109} INFO - [2022-03-31 05:39:22,526] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:39:22,536] {logging_mixin.py:109} INFO - [2022-03-31 05:39:22,536] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:39:22.536495+00:00
+[2022-03-31 05:39:22,594] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.146 seconds
+[2022-03-31 05:39:57,115] {processor.py:163} INFO - Started process (PID=11310) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:39:57,117] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:39:57,117] {logging_mixin.py:109} INFO - [2022-03-31 05:39:57,117] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:39:57,139] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:39:57,150] {logging_mixin.py:109} INFO - [2022-03-31 05:39:57,150] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:39:57,162] {logging_mixin.py:109} INFO - [2022-03-31 05:39:57,162] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:39:57.161767+00:00
+[2022-03-31 05:39:57,176] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2022-03-31 05:40:51,454] {processor.py:163} INFO - Started process (PID=11529) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:40:51,456] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:40:51,456] {logging_mixin.py:109} INFO - [2022-03-31 05:40:51,456] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:40:51,477] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:40:51,487] {logging_mixin.py:109} INFO - [2022-03-31 05:40:51,487] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:40:51,498] {logging_mixin.py:109} INFO - [2022-03-31 05:40:51,498] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:40:51.497835+00:00
+[2022-03-31 05:40:51,507] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2022-03-31 05:41:35,585] {processor.py:163} INFO - Started process (PID=11696) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:41:35,587] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:41:35,587] {logging_mixin.py:109} INFO - [2022-03-31 05:41:35,587] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:41:35,606] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:41:35,616] {logging_mixin.py:109} INFO - [2022-03-31 05:41:35,616] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:41:35,626] {logging_mixin.py:109} INFO - [2022-03-31 05:41:35,626] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:41:35.626547+00:00
+[2022-03-31 05:41:35,637] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-03-31 05:42:09,288] {processor.py:163} INFO - Started process (PID=11729) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:42:09,291] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:42:09,291] {logging_mixin.py:109} INFO - [2022-03-31 05:42:09,291] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:42:09,310] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:42:09,319] {logging_mixin.py:109} INFO - [2022-03-31 05:42:09,319] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:42:09,332] {logging_mixin.py:109} INFO - [2022-03-31 05:42:09,332] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:42:09.331851+00:00
+[2022-03-31 05:42:09,342] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.057 seconds
+[2022-03-31 05:42:43,585] {processor.py:163} INFO - Started process (PID=11762) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:42:43,587] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:42:43,587] {logging_mixin.py:109} INFO - [2022-03-31 05:42:43,587] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:42:43,606] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:42:43,616] {logging_mixin.py:109} INFO - [2022-03-31 05:42:43,616] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:42:43,626] {logging_mixin.py:109} INFO - [2022-03-31 05:42:43,626] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:42:43.626136+00:00
+[2022-03-31 05:42:43,636] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-03-31 05:43:18,401] {processor.py:163} INFO - Started process (PID=11796) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:43:18,403] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:43:18,403] {logging_mixin.py:109} INFO - [2022-03-31 05:43:18,403] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:43:18,421] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:43:18,431] {logging_mixin.py:109} INFO - [2022-03-31 05:43:18,431] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:43:18,442] {logging_mixin.py:109} INFO - [2022-03-31 05:43:18,442] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:43:18.442521+00:00
+[2022-03-31 05:43:18,452] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-03-31 05:43:51,094] {processor.py:163} INFO - Started process (PID=11834) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:43:51,095] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:43:51,096] {logging_mixin.py:109} INFO - [2022-03-31 05:43:51,096] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:43:51,115] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:43:51,125] {logging_mixin.py:109} INFO - [2022-03-31 05:43:51,125] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:43:51,136] {logging_mixin.py:109} INFO - [2022-03-31 05:43:51,136] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:43:51.136427+00:00
+[2022-03-31 05:43:51,145] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-03-31 05:44:27,760] {processor.py:163} INFO - Started process (PID=11871) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:44:27,761] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:44:27,762] {logging_mixin.py:109} INFO - [2022-03-31 05:44:27,762] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:44:27,781] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:44:27,791] {logging_mixin.py:109} INFO - [2022-03-31 05:44:27,790] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:44:27,802] {logging_mixin.py:109} INFO - [2022-03-31 05:44:27,802] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:44:27.802027+00:00
+[2022-03-31 05:44:27,810] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.062 seconds
+[2022-03-31 05:45:03,448] {processor.py:163} INFO - Started process (PID=11906) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:45:03,450] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:45:03,451] {logging_mixin.py:109} INFO - [2022-03-31 05:45:03,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:45:03,471] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:45:03,481] {logging_mixin.py:109} INFO - [2022-03-31 05:45:03,480] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:45:03,492] {logging_mixin.py:109} INFO - [2022-03-31 05:45:03,492] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:45:03.492484+00:00
+[2022-03-31 05:45:03,504] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.060 seconds
+[2022-03-31 05:45:37,227] {processor.py:163} INFO - Started process (PID=11939) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:45:37,229] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:45:37,229] {logging_mixin.py:109} INFO - [2022-03-31 05:45:37,229] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:45:37,248] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:45:37,257] {logging_mixin.py:109} INFO - [2022-03-31 05:45:37,257] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:45:37,268] {logging_mixin.py:109} INFO - [2022-03-31 05:45:37,268] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:45:37.268313+00:00
+[2022-03-31 05:45:37,278] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.054 seconds
+[2022-03-31 05:46:10,992] {processor.py:163} INFO - Started process (PID=11972) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:46:10,994] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:46:10,995] {logging_mixin.py:109} INFO - [2022-03-31 05:46:10,995] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:46:11,013] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:46:11,023] {logging_mixin.py:109} INFO - [2022-03-31 05:46:11,023] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:46:11,035] {logging_mixin.py:109} INFO - [2022-03-31 05:46:11,035] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:46:11.034976+00:00
+[2022-03-31 05:46:11,045] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.056 seconds
+[2022-03-31 05:46:44,894] {processor.py:163} INFO - Started process (PID=12047) to work on /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:46:44,899] {processor.py:642} INFO - Processing file /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-03-31 05:46:44,900] {logging_mixin.py:109} INFO - [2022-03-31 05:46:44,899] {dagbag.py:500} INFO - Filling up the DagBag from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:46:44,919] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2022-03-31 05:46:44,929] {logging_mixin.py:109} INFO - [2022-03-31 05:46:44,928] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-31 05:46:44,940] {logging_mixin.py:109} INFO - [2022-03-31 05:46:44,940] {dag.py:2937} INFO - Setting next_dagrun for example_task_group to 2022-03-30T12:46:44.939716+00:00
+[2022-03-31 05:46:44,951] {processor.py:171} INFO - Processing /home/vengat/big_data/python/venv/aflow_env/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
